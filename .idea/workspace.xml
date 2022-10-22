@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ff51a9b-3a0c-46ef-bfb2-1a3b173905a9" name="Changes" comment="Initial commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="3ff51a9b-3a0c-46ef-bfb2-1a3b173905a9" name="Changes" comment="Homework done" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +56,7 @@
       <updated>1665757694528</updated>
       <workItem from="1665757697438" duration="14255000" />
       <workItem from="1666100807528" duration="4065000" />
-      <workItem from="1666435690764" duration="1791000" />
+      <workItem from="1666435690764" duration="2161000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1665758043591</created>
@@ -68,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665758043591</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Homework done">
+      <created>1666447569199</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666447569199</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,7 +91,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Homework done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework done" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
